@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
 <h3 align="center">A tech enthusiast and a learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhicode4github&label=Profile%20views&color=0e75b6&style=flat" alt="abhicode4github" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/abhishekjha_01" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekjha_01?logo=twitter&style=for-the-badge" alt="abhishekjha_01" /></a> </p>
 
